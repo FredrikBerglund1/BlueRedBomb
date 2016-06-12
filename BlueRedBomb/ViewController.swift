@@ -31,6 +31,10 @@ class ViewController: UIViewController {
     @IBAction func hideRed(sender: AnyObject) {
         redBomb.hidden = true
     }
+    
+    func test(){
+        
+    }
 
 }
 
