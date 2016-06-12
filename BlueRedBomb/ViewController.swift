@@ -33,7 +33,8 @@ class ViewController: UIViewController {
     }
     
     func test(){
-        
+        print("hej")
+        print("hej igen")
     }
 
 }
